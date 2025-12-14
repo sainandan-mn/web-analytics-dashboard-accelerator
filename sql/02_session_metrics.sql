@@ -1,0 +1,3 @@
+-- Purpose:
+-- Create session-level engagement and conversion metrics
+-- using flattened GA4 event data.

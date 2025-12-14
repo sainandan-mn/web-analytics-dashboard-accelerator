@@ -1,0 +1,3 @@
+-- Purpose:
+-- Flatten raw GA4 events data and derive session identifiers.
+-- Base table for all downstream analytics.

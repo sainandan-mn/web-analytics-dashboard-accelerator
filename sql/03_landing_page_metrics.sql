@@ -1,0 +1,3 @@
+-- Purpose:
+-- Calculate landing page level engagement and bounce rate metrics
+-- based on session behavior.
